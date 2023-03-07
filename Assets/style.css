@@ -1,0 +1,9 @@
+#forecast {
+    display: flex;
+}
+
+#forecast div {
+    background-color: pink;
+    width: 10%;
+    margin: 4px;
+}
