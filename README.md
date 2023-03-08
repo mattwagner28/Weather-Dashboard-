@@ -9,3 +9,5 @@ This app only displays the basic functionality. It successfully pulls the 5-day 
 humidity, and wind speed. 
 
 I didn't have time to save the cities to storage or create a page reload function everytime the user searches. I will add these later if I have time. 
+
+I know there is an issue where if you search for another city, it leaves the data from the previous city. Again, will fix later if I have time. 
